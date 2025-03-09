@@ -20,4 +20,6 @@ EmaarTech Building, HTML, CSS ve Bootstrap kullanılarak geliştirilmiş modern 
 
 -Temiz ve okunabilir kod yapısı
 
+<h2>Ekran Görüntüsü</h2>
+
 ![](ekran.gif)
